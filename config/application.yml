@@ -1,3 +1,6 @@
 logging.level.org.springframework.web: DEBUG
 spring.messages.basename: messages
 management.endpoints.web.exposure.include: all
+spring.cloud.config.server.git.uri: file:///E:/Practice/spring-cloud-config-server
+limits-server-mininum: 8
+server.port: 8888
