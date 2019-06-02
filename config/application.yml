@@ -3,3 +3,4 @@ spring.messages.basename: messages
 management.endpoints.web.exposure.include: all
 spring.cloud.config.server.git.uri: https://github.com/afzalkhan4u/firstHelloWorld.git
 server.port: 8888
+management.security.enabled: false
